@@ -1,3 +1,5 @@
+Sponsor by - Coinscan -  https://coinscan.cc
+
 # Telegram all Groups and Channels Remover for Non-Owners
 
 This Python script allows you to leave all Telegram groups and channels where you are not the owner using the Telethon library.
